@@ -3,5 +3,4 @@
 *.swn
 *.swm
 
-.env.prod
 .env.prod.db
